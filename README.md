@@ -60,18 +60,19 @@ Soy un apasionado por la tecnología y la creación de soluciones innovadoras. M
 ## 🏆 Trofeos y Estadísticas
 
 <p align="center">
-  <!-- TROFEOS DE GITHUB -->
+  <!-- TROFEOS DE GITHUB ACTUALIZADOS -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=EdsonAs-Develop&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="EdsonAs-Develop Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=EdsonTovaR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="EdsonTovaR Trophies" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdsonAs-Develop&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdsonAs-Develop&theme=tokyonight"/>
+  <!-- ESTADÍSTICAS ACTUALIZADAS -->
+  <img src="https://github-readme-stats.vercel.app/api?username=EdsonTovaR&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdsonTovaR&theme=tokyonight"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonAs-Develop&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonTovaR&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -79,10 +80,11 @@ Soy un apasionado por la tecnología y la creación de soluciones innovadoras. M
 ## 🐍 Mis Contribuciones (Snake Graph)
 
 <p align="center">
+  <!-- ANIMACIÓN DE LA SERPIENTE ACTUALIZADA -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdsonAs-Develop/EdsonAs-Develop/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdsonAs-Develop/EdsonAs-Develop/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EdsonAs-Develop/EdsonAs-Develop/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdsonTovaR/EdsonTovaR/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdsonTovaR/EdsonTovaR/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EdsonTovaR/EdsonTovaR/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
